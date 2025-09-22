@@ -1,35 +1,36 @@
-# Inteligencia Emocional - Modelo RITA
 
-Este proyecto interactivo está diseñado para explorar tres pilares de la inteligencia emocional: **Autoconciencia emocional**, **Regulación emocional** y **Empatía**, utilizando el modelo RITA.
+# Proyecto Interactivo - Modelo RITA
 
-## 🌟 ¿Qué incluye?
+Este proyecto educativo presenta una galería visual y tarjetas interactivas basadas en el modelo RITA, que incluye tres competencias emocionales clave:
 
-- `index.html`: Interfaz con botones interactivos para cada variante emocional.
-- `style.css`: Estilo visual con colores suaves y tipografía amigable.
-- `script.js`: Lógica para mostrar contenido dinámico.
-- `catalogo_visual/`: Imágenes representativas de cada variante.
-- `README.md`: Guía completa del proyecto.
+- **Autoconciencia emocional**
+- **Regulación emocional**
+- **Empatía**
 
-## 🧠 Modelo RITA
+## Propósito Educativo
 
-**R**: Reconoce tu emoción actual.  
-**I**: Identifica el origen de esa emoción.  
-**T**: Transforma tu perspectiva con una pregunta reflexiva.  
-**A**: Actúa con intención y conciencia.
+El objetivo es fomentar el desarrollo de habilidades socioemocionales a través de imágenes inspiradoras y frases positivas que invitan a la reflexión y al crecimiento personal.
 
-## 📌 Frases motivacionales
+## Estructura del Proyecto
 
-- Autoconciencia: *“Conocerme es el primer paso para transformarme.”*  
-- Regulación: *“No siempre puedo controlar lo que siento, pero sí cómo respondo.”*  
-- Empatía: *“La empatía abre puertas que el juicio cierra.”*
+- Carpeta `images/`: contiene imágenes representativas de cada categoría del modelo RITA.
+- Carpeta `cards/`: contiene una página HTML con tarjetas visuales y frases motivadoras.
+- Archivo `README.md`: explica el propósito del proyecto y cómo interactuar con él.
 
-## 🚀 Publicar en GitHub Pages
+## Cómo interactuar
 
-1. Crea un repositorio en GitHub.
-2. Sube todos los archivos del proyecto.
-3. Activa GitHub Pages desde la pestaña Settings.
-4. Tu sitio estará disponible en `https://TU_USUARIO.github.io/NOMBRE_DEL_REPOSITORIO/`
+1. Abre el archivo `cards/index.html` en tu navegador.
+2. Explora las tarjetas por categoría.
+3. Reflexiona sobre cada frase y cómo se relaciona con tu vida emocional.
+
+## Publicación en GitHub Pages
+
+Para publicar este proyecto en GitHub Pages:
+
+1. Sube el contenido de la carpeta `RITA_Project` a un repositorio en GitHub.
+2. Activa GitHub Pages desde la configuración del repositorio.
+3. Accede a tu página web desde la URL generada por GitHub.
 
 ---
 
-¡Explora, reflexiona y transforma con inteligencia emocional!
+Este proyecto está diseñado para apoyar procesos educativos, terapéuticos y de desarrollo personal.
